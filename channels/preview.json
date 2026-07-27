@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "repository": "velobase/pickrun-release",
+  "channel": "preview",
+  "version": "0.1.1-preview.1",
+  "tag": "desktop-v0.1.1-preview.1",
+  "name": "PickRun 0.1.1-preview.1 public preview",
+  "prerelease": true,
+  "publishedAt": "2026-07-27T08:20:38.000Z",
+  "releaseNotesUrl": "https://github.com/velobase/pickrun-release/releases/tag/desktop-v0.1.1-preview.1",
+  "assets": {
+    "PickRun-macOS-arm64.dmg": {
+      "name": "PickRun-macOS-arm64.dmg",
+      "size": 119648739,
+      "sha256": "7e9d93d314244f5d64cbde9c77d1671a471bd88754c838802e65b50be658aa0c",
+      "url": "https://github.com/velobase/pickrun-release/releases/download/desktop-v0.1.1-preview.1/PickRun-macOS-arm64.dmg"
+    },
+    "PickRun-macOS-arm64.cdx.json": {
+      "name": "PickRun-macOS-arm64.cdx.json",
+      "size": 4223,
+      "sha256": "1aff834ed79a5eb7a134d266bba0531484b223e793c614d5ff48de71e17938ff",
+      "url": "https://github.com/velobase/pickrun-release/releases/download/desktop-v0.1.1-preview.1/PickRun-macOS-arm64.cdx.json"
+    },
+    "SHA256SUMS.txt": {
+      "name": "SHA256SUMS.txt",
+      "size": 273,
+      "sha256": "be59eaa06f84811982d35c79be262bae17a7acbdd7c67b4131e465d31f871658",
+      "url": "https://github.com/velobase/pickrun-release/releases/download/desktop-v0.1.1-preview.1/SHA256SUMS.txt"
+    }
+  }
+}
